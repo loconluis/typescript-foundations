@@ -8,8 +8,7 @@
   "author": "Luis Locon",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "D": "^1.0.0",
+  "devDependencies": {
     "typescript": "^5.5.4"
   }
 }
